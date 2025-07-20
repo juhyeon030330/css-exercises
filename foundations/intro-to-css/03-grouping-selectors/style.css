@@ -1,0 +1,13 @@
+#o, #x {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+#o {
+    background-color:black;
+    color: white;
+}
+
+#x {
+    background-color:yellow;
+}
